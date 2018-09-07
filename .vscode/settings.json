@@ -1,0 +1,10 @@
+{
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": true,
+    "editor.autoIndent": true,
+    "editor.tabSize": 2,
+    "python.pythonPath": "/Users/eralp/.pyenv/shims/python",
+    "files.exclude": {
+        "*/*.pyc": true
+    }
+}
