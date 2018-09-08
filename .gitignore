@@ -92,3 +92,6 @@ ENV/
 # Project specific
 temp/*
 !temp/.gitkeep
+
+# OS
+.DS_Store
