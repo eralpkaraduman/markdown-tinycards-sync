@@ -1,6 +1,7 @@
 nose
 sphinx
-tinycards
+tinycards==0.23
 python-dotenv
 pyyaml
 gitpython
+requests
