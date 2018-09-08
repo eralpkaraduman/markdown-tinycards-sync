@@ -1,8 +1,8 @@
 {
     "editor.insertSpaces": true,
-    "editor.detectIndentation": true,
+    "editor.detectIndentation": false,
     "editor.autoIndent": true,
-    "editor.tabSize": 2,
+    "editor.tabSize": 4,
     "python.pythonPath": "${workspaceFolder}/env/bin/python",
     "files.exclude": {
         "*/*.pyc": true,
