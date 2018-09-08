@@ -1,2 +1,2 @@
 from .core import hmm
-from .tinycards_wrapper import TinycardsWrapper
+from .core import markdown_sync
