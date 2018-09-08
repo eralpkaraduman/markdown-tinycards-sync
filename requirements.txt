@@ -2,3 +2,5 @@ nose
 sphinx
 tinycards
 python-dotenv
+pyyaml
+gitpython
