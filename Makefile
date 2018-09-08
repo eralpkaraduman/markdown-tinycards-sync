@@ -4,5 +4,5 @@ init:
 test:
 	nosetests tests
 
-run:
+sync:
 	python -m sample
